@@ -1,0 +1,46 @@
+
+
+.. _example_ensemble_plot_forest_importances.py:
+
+
+=========================================
+Feature importances with forests of trees
+=========================================
+
+This examples shows the use of forests of trees to evaluate the importance of
+features on an artificial classification task. The red bars are the feature
+importances of the forest, along with their inter-trees variability.
+
+As expected, the plot suggests that 3 features are informative, while the
+remaining are not.
+
+
+
+.. image:: images/plot_forest_importances_001.png
+    :align: center
+
+
+**Script output**::
+
+  Feature ranking:
+  1. feature 2 (0.426095)
+  2. feature 1 (0.231205)
+  3. feature 0 (0.119869)
+  4. feature 7 (0.033903)
+  5. feature 9 (0.032583)
+  6. feature 5 (0.032281)
+  7. feature 3 (0.032158)
+  8. feature 4 (0.031123)
+  9. feature 8 (0.030538)
+  10. feature 6 (0.030246)
+
+
+
+**Python source code:** :download:`plot_forest_importances.py <plot_forest_importances.py>`
+
+.. literalinclude:: plot_forest_importances.py
+    :lines: 13-
+
+**Total running time of the example:**  0.98 seconds
+( 0 minutes  0.98 seconds)
+    
