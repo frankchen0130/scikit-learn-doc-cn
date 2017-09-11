@@ -35,25 +35,25 @@ sklearn库作为目前机器学习非常流行的python库，一个易读的文�
 | clustering.rst | ![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|huangbinapple|
 | computational_performance.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg) | iphyer |
 | covariance.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)| RobinSeaside |
-| cross_decomposition.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
+| cross_decomposition.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|muyeby|
 | cross_validation.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)| LianYun |
-| decomposition.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
+| decomposition.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)| heyuanhao |
 | density.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)| RobinSeaside |
-| dp-derivation.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
+| dp-derivation.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg) | leavesandflowers |
 | ensemble.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|ustblzj|
 | feature_extraction.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)| minoriwww |
 | feature_selection.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)| taoyizhi68 |
 | gaussian_process.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)|alingse|
-| grid_search.rst | ![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg) | LianYun |
-| isotonic.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
-| kernel_approximation.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
-| kernel_ridge.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
-| label_propagation.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
+| grid_search.rst | ![Build Status](https://img.shields.io/badge/translate-done-blue.svg) | LianYun |
+| isotonic.rst | ![Build Status](https://img.shields.io/badge/translate-done-blue.svg) | LinXueyuanStdio|
+| kernel_approximation.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)|heyuanhao|
+| kernel_ridge.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|[nevertiree](https://github.com/nevertiree)|
+| label_propagation.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)| lihao1992 |
 | lda_qda.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)|ShangruZhong|
 | learning_curve.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)| taoyizhi68 |
-| manifold.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
+| manifold.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|[nevertiree](https://github.com/nevertiree)|
 | metrics.rst |![Build Status](https://img.shields.io/badge/translate-done-blue.svg)|[frankchen0130](https://frankchen0130.github.io/)|
-| mixture.rst |![Build Status](https://img.shields.io/badge/translate-undo-lightgray.svg)||
+| mixture.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|haisheng-zhang|
 | model_evaluation.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|ShangruZhong|
 | model_persistence.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|iphyer|
 | multiclass.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|iphyer|
@@ -71,8 +71,8 @@ sklearn库作为目前机器学习非常流行的python库，一个易读的文�
 | tree.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|RobinSeaside|
 | unsupervised_reduction.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|iphyer|
 | svm.rst |![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|lzjqsdd|
+| decomposition.rst|![Build Status](https://img.shields.io/badge/translate-doing-brightgreen.svg)|[Stephen.Z](https://github.com/StephenZMZ/)|
 
-### 任务申领
 首先fork该项目到个人github，clone到本地，修改README中要申领的翻译内容的状态，提交pull request,接受之后即可开始翻译工作。
 翻译结束后确保可正常编译成html，然后只提交rst文件的修改，不要添加sphinx生成的文件。
 **所有翻译后的文档以同名的方式添加到translate/同目录文件夹下,例如：**  
